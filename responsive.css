@@ -1,0 +1,75 @@
+
+/* breakpoint */
+
+/* mobile */
+@media screen and (max-width: 576px) {
+    /* div.shoe {
+        width: 100%;
+    } */
+
+    /* footer .container {
+        flex-wrap: wrap;
+    } */
+
+    /* div.footer-item {
+        width: 75%;
+    } */
+    /* add new */
+    /* footer{
+        position: relative;
+    } */
+    /* div.footer-item img{
+        position: absolute;
+        right: 5px;
+        bottom: 10px;
+        margin-bottom: 50px;
+    } */
+}
+
+
+
+/* tablet  */
+@media screen and (max-width: 992px) {
+    /* div.shoe {
+        width: calc(50% - 32px)
+    } */
+
+    /* nav {
+        display: none;
+    } */
+    /* div.footer-item img{
+        max-width: 170px;
+    } */
+    /* footer h4{
+        font-size: 24px;
+    } */
+}
+
+
+
+
+/* mobile
+@media screen and (max-width: 576px) {
+    div.shoe {
+        width: 100%;
+    }
+
+    footer .container {
+        flex-wrap: wrap;
+    }
+
+    div.footer-item {
+        width: 75%;
+    }
+}
+
+
+ */
+
+/* desktop */
+@media screen and (min-width: 993px) {
+    /* .tm-menu {
+        display: none;
+    } */
+
+}
